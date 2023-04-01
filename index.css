@@ -1,0 +1,200 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+/*NAVBAR*/
+
+/*NAVBAR END*/
+
+/*LANDING */
+
+.landdd {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.40)), url("./images/bg1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;*/
+    max-width: 100%;
+    height: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#pfp {
+    max-width:80% ;
+    box-shadow: 0 30px 40px rgba(0,0,0,.40);
+    border-radius: 100%;
+
+}
+
+div .land-creds1 {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 3.5rem;
+    margin-top: 20%;
+}
+
+div .land-creds2 {
+    font-family: 'Archivo', sans-serif;
+    letter-spacing: 0.3rem;
+    text-transform: uppercase;
+    margin-top: 5%;
+    margin-left: 1%;
+}
+
+/*LANDING END*/
+
+/*ABOUT US*/
+
+.aboutus {
+    padding-top: 7%;
+    padding-bottom: 10%;
+}
+
+#abtus-css {
+    margin-left: 10%;
+}
+
+.css-au {
+    margin-right: 100%;
+}
+
+
+#abttxt-css {
+    text-align: justify;
+    padding-top: 3rem;
+}
+
+.ngi {
+    font-size: 1.3rem;
+}
+
+#ab-css {
+     font-family: 'Noto Serif', serif;
+     font-size: 5rem;
+     font-style: italic;
+     font-weight: 100;
+
+}
+
+/*ABOUT US END*/
+
+/*PROJECTS*/
+
+.proj-css {
+    padding-top: 10%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#mp-css {
+    text-align: center;
+    margin-top: 3%;
+}
+
+#l1-mp {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 2.8rem;
+    font-style: italic;
+}
+
+#l2-mp {
+    font-family: 'Archivo', sans-serif;
+    font-size: 1.2rem;
+}
+
+/*PROJECTS END*/
+
+/*GALLERY*/
+
+#galtxt-css {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 3rem;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+#galsbtxt-css {
+    font-family: 'Archivo', sans-serif;
+    font-size: 1.5rem;
+    letter-spacing: 0.3rem;
+    font-style: italic;
+    text-align: center;
+    margin-top: 3%;
+}
+
+#slideshow {
+    max-width: 90%;
+    max-height: auto;
+
+}
+
+.gal-css {
+   background-image: linear-gradient(rgba(132, 80, 45, 0.24), rgba(132, 80, 45, 0.24)), url("./images/bg-white.jpg");
+    background-color: #e8e2e1;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;*/
+    max-width: 100%;
+    height: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/*GALLERY END*/
+
+/*TOOLS*/
+
+.tools-css {
+    background-color: rgba(14, 14, 14, 0.99);
+    background-size: cover;
+    background-attachment: fixed;*/
+    max-width: 100%;
+    height: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.tls-css {
+    max-width: 60%;
+    height: auto;
+}
+
+#tlstxt-css {
+    font-family: 'Archivo', sans-serif;
+    font-size: 1.5rem;
+    font-style: italic;
+    text-align: left;
+    margin-left: 20%;
+    margin-bottom: 2%;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+.ct-css {
+    padding-bottom: 3%;
+}
+
+/*TOOLS END*/
+
+.contact-me {
+    background-image: linear-gradient(rgba(14, 14, 14, 0.89), rgba(14, 14, 14, 0.99)), url("./images/bg1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;*/
+    max-width: 100%;
+    height: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
